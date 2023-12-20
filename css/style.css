@@ -110,7 +110,7 @@ body{
 
 .header .logo img{
     width: 170%;
-    height: 7rem;
+    height: 10rem;
     top: 0;
     left: 0;
 }
@@ -1084,8 +1084,8 @@ body{
     }
 
     .header .logo img{
-        width: 20%;
-        height: 3rem;
+        width: 60%;
+        height: 9rem;
         top: 0;
         left: 0;
         background-size: cover;
