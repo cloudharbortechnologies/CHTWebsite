@@ -109,8 +109,8 @@ body{
 }
 
 .header .logo img{
-    width: 130%;
-    height: 3rem;
+    width: 150%;
+    height: 6rem;
     top: 0;
     left: 0;
 }
@@ -137,7 +137,7 @@ body{
 }
 
 .header .logo i{
-    padding: 0.5rem;
+    padding: 1rem;
 }
 
 .header .fa-bars{
@@ -1084,8 +1084,8 @@ body{
     }
 
     .header .logo img{
-        width: 20%;
-        height: 3rem;
+        width: 40%;
+        height: 6rem;
         top: 0;
         left: 0;
         background-size: cover;
