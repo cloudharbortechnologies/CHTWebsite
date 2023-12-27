@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "Jitu/CloudHarborTechnologies",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "Jitu\\CloudHarborTechnologies\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "Cloud Harbor Technologies"
         }
     ],
     "require": {
