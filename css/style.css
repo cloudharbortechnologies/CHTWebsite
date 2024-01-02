@@ -168,7 +168,7 @@ body{
   padding: 0 1rem;
   position: relative;
   overflow: hidden !important;
-  animation: scrollBackground 2s linear infinite; /* Adjust the duration as needed */
+  animation: scrollBackground 200s linear infinite; /* Adjust the duration as needed */
 }
 
 .home:nth-child(1) {
